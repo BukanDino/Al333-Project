@@ -1,13 +1,12 @@
-# Dicoding Collection Dashboard ✨
+# Dicoding Analis Data dengan Python ✨
 
-## Setup environment
-```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-```
+Penerapan Pembelajaran pada kelas Analisis Data
+- Dasar-Dasar Analisis Data
+- Penerapan Dasar-Dasar Descriptive Statistics
+- Petimbangan dalam Pengolahan Data
+- Data Wrangling
+- Exploratory Data Analysis
+- Data Visualization
 
-## Run steamlit app
-```
-streamlit run dashboard.py
-```
+Untuk pengembangan Dashboard saya masih kesusahan dalam memahami nya karena itu di proyek tugas akhir ini saya tidak menggunakan streamlit
+hanya sampai pada Data visualisasi pada notebook
